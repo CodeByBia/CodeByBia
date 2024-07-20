@@ -19,7 +19,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+<img alt="Globe" height="80" src="imgs/globe.gif">
 </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://youtu.be/j4iuG7StmPc">
 <strong>Listen to cool music</strong>
 <br />
 <br />
