@@ -66,6 +66,8 @@
 </td>
 </tr>
 
+</table>
+
 ###
 
 <h2 align="center">Find Me</h2>
@@ -90,5 +92,5 @@
 ###
 
 
-</table>
+
 
